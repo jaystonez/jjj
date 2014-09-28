@@ -1,0 +1,1 @@
+<?php	/*  * No options for the No Theme options. Right? * It's here for the sake of consistency *  */

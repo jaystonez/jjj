@@ -1,0 +1,9 @@
+.jetpack-image-container::after {
+	clear: both;
+}
+.jetpack-image-container::before {
+	display: table; content: "";
+}
+.jetpack-image-container::after {
+	display: table; content: "";
+}

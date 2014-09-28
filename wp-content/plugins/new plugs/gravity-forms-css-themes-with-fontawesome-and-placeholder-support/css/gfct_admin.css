@@ -1,0 +1,41 @@
+form {
+    background: none repeat scroll 0 0 #f6fbfd;
+    padding: 20px;
+}
+
+tr {
+    background: none repeat scroll 0 0 white;
+    border-bottom: 3px solid #f6fbfd;
+}
+th {
+    padding-left: 5px !important;
+}
+.fa{
+    color:#0074a2;
+    font-size:22px;
+    padding-right:10px;
+}
+.gfct_theme {
+    width: 200px;
+}
+.gfct_themebox {
+    background: none repeat scroll 0 0 white;
+    float: left;
+    padding: 5px;
+}
+.gfct_themebox h2 {
+    font-size: 14px;
+}
+
+.gfct_themes {
+    display: block;
+    margin-top: 10px;
+}
+#wpfooter {
+    position: relative;
+}
+.gfct_submit {
+    background-color: #82c9e9;
+    color: white;
+    margin-top: 10px;
+}

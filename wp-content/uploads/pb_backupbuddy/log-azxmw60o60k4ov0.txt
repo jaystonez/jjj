@@ -1,0 +1,1 @@
+[Sep 15, 2014 05:05:29 0-error] [shsxot3cn1] Database Server has gone away, unable to schedule next backup step. The backup cannot continue. This is most often caused by mysql running out of memory or timing out far too early. Please contact your host.

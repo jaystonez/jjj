@@ -1,0 +1,141 @@
+div.shailan-dropdown-menu table {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; line-height: 1; font-size: 100%;
+}
+div.shailan-dropdown-menu tbody {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; line-height: 1; font-size: 100%;
+}
+div.shailan-dropdown-menu tr {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; line-height: 1; font-size: 100%;
+}
+div.shailan-dropdown-menu td {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; line-height: 1; font-size: 100%;
+}
+div.shailan-dropdown-menu ul {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; line-height: 1; font-size: 100%;
+}
+div.shailan-dropdown-menu li {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; line-height: 1; font-size: 100%;
+}
+div.dropdown-horizontal-container {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; line-height: 1; font-size: 100%;
+}
+ul.dropdown * {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; line-height: 1; font-size: 100%;
+}
+.shailan-dropdown-menu {
+	position: relative; z-index: 597;
+}
+ul.dropdown {
+	list-style: none; margin: 0px; padding: 0px;
+}
+ul.dropdown li {
+	list-style: none; margin: 0px; padding: 0px;
+}
+ul.dropdown ul {
+	list-style: none; margin: 0px; padding: 0px;
+}
+ul.dropdown li {
+	vertical-align: middle; display: inline; position: relative; -ms-zoom: 1;
+}
+ul.dropdown li ul {
+	position: absolute; z-index: 598;
+}
+ul.dropdown li.hover {
+	cursor: default;
+}
+ul.dropdown li:hover {
+	cursor: default;
+}
+ul.dropdown > li {
+	float: left;
+}
+ul.dropdown li a {
+	padding: 0.3em 0.8em; cursor: pointer;
+}
+ul.dropdown ul {
+	left: 0px; top: 100%; position: absolute;
+}
+ul.dropdown ul li {
+	list-style: none; float: none; display: list-item;
+}
+ul.dropdown ul ul {
+	left: 99%; top: 1px;
+}
+ul.dropdown a:active {
+	outline-style: none;
+}
+ul.dropdown a:focus {
+	outline-style: none;
+}
+* html ul.dropdown li {
+	height: 1px;
+}
+ul.dropdown ul li {
+	margin-left: 0px;
+}
+ul.dropdown-vertical {
+	margin-left: 0px;
+}
+ul.dropdown ul {
+	display: none;
+}
+ul.dropdown li.hover ul ul {
+	display: none;
+}
+ul.dropdown li.hover ul ul ul {
+	display: none;
+}
+ul.dropdown li.hover ul ul ul ul {
+	display: none;
+}
+ul.dropdown li.hover ul ul ul ul ul {
+	display: none;
+}
+ul.dropdown ul {
+	display: none;
+}
+ul.dropdown li:hover ul ul {
+	display: none;
+}
+ul.dropdown li:hover ul ul ul {
+	display: none;
+}
+ul.dropdown li:hover ul ul ul ul {
+	display: none;
+}
+ul.dropdown li:hover ul ul ul ul ul {
+	display: none;
+}
+ul.dropdown ul ul ul ul ul ul {
+	display: none !important;
+}
+.dm-align-right table {
+	float: right;
+}
+.dm-align-left table {
+	float: left;
+}
+ul.dropdown-align-right.dropdown-horizontal ul {
+	left: auto; right: 0px;
+}
+ul.dropdown-align-right.dropdown-horizontal ul ul {
+	left: auto; right: 99%;
+}
+ul.dropdown-align-left.dropdown-vertical ul {
+	left: 99%; top: 1px; right: auto;
+}
+ul.dropdown-align-right.dropdown-vertical ul {
+	left: auto; top: 1px; right: 99%;
+}
+ul.dropdown-vertical li {
+	float: none; display: block;
+}
+.clearfix::after {
+	height: 0px; clear: both; display: block; visibility: hidden; content: ".";
+}
+* html > body .clearfix {
+	width: 100%; display: block;
+}
+* html .clearfix {
+	height: 1%;
+}

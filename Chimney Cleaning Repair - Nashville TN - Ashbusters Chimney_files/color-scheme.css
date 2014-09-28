@@ -1,0 +1,174 @@
+.dropdown-horizontal-container {
+	width: 100%;
+}
+.shailan-dropdown-menu .dropdown-horizontal-container {
+	background-image: url("images/overlay.png");
+}
+* html .shailan-dropdown-menu .dropdown-horizontal-container {
+	background-image: none;
+}
+ul.dropdown li a {
+	padding: 6px 12px; text-decoration: none; display: block;
+}
+ul.dropdown li.hover {
+	cursor: default;
+}
+ul.dropdown li:hover {
+	cursor: default;
+}
+ul.dropdown ul {
+	border: 0px currentColor; border-image: none;
+}
+ul.dropdown ul ul {
+	left: 100%; top: 1px;
+}
+ul.dropdown-upward ul ul {
+	
+}
+ul.dropdown li {
+	border: 0px currentColor; border-image: none; text-align: center; background-image: url("images/overlay.png"); background-color: transparent;
+}
+* html ul.dropdown li {
+	background-image: none;
+}
+ul.dropdown-align-right li {
+	border-width: 0px 0px 0px 1px;
+}
+ul.dropdown li.hover {
+	background-image: url("images/overlay.png");
+}
+ul.dropdown li:hover {
+	background-image: url("images/overlay.png");
+}
+ul.dropdown li.hover a {
+	background-image: url("images/overlay.png");
+}
+ul.dropdown li:hover a {
+	background-image: url("images/overlay.png");
+}
+ul.dropdown li.hover ul li a {
+	background: none;
+}
+ul.dropdown li:hover ul li a {
+	background: none;
+}
+* html ul.dropdown li.hover {
+	background-image: none;
+}
+* html ul.dropdown li.hover a {
+	background-image: none;
+}
+ul.dropdown a:link {
+	color: rgb(0, 0, 0);
+}
+ul.dropdown a:visited {
+	color: rgb(0, 0, 0);
+}
+ul.dropdown a:hover {
+	color: rgb(0, 0, 0);
+}
+ul.dropdown a:active {
+	color: rgb(237, 0, 140);
+}
+ul.dropdown ul {
+	border: currentColor; border-image: none; margin-top: 0px; margin-left: -1px; -webkit-box-shadow: 0 2px 5px rgba(0, 0, 0, 0.496094); -moz-box-shadow: 0 2px 5px rgba(40, 40, 40, 0.8);
+}
+ul.dropdown ul li {
+	border: currentColor; border-image: none; text-align: left;
+}
+ul.dropdown ul {
+	margin: 0px; padding: 0px;
+}
+ul.dropdown a {
+	margin: 2px; border-radius: 3px; height: auto; text-shadow: 0px 1px 1px rgba(70,70,70,0.7); -moz-border-radius: 3px; -webkit-border-radius: 3px;
+}
+ul.dropdown li.hover ul li a:hover {
+	text-decoration: none; background-image: none;
+}
+ul.dropdown li:hover ul li a:hover {
+	text-decoration: none; background-image: none;
+}
+ul.dropdown ul li {
+	background-image: none;
+}
+li.current-cat a {
+	color: rgb(237, 0, 140);
+}
+li.current_page_item a {
+	color: rgb(237, 0, 140);
+}
+li.current-menu-item a {
+	color: rgb(237, 0, 140);
+}
+li.current-cat a:link {
+	color: rgb(237, 0, 140);
+}
+li.current_page_item a:link {
+	color: rgb(237, 0, 140);
+}
+li.current-menu-item a:link {
+	color: rgb(237, 0, 140);
+}
+li.current-cat a:visited {
+	color: rgb(237, 0, 140);
+}
+li.current_page_item a:visited {
+	color: rgb(237, 0, 140);
+}
+li.current-menu-item a:visited {
+	color: rgb(237, 0, 140);
+}
+li.current_page_item ul a {
+	color: rgb(0, 0, 0);
+}
+li.current_page_item ul a:visited {
+	color: rgb(0, 0, 0);
+}
+li.current_page_item ul a:link {
+	color: rgb(0, 0, 0);
+}
+li.current_page_ancestor a {
+	text-decoration: underline;
+}
+li.current_page_ancestor a:visited {
+	text-decoration: underline;
+}
+li.current_page_ancestor a:link {
+	text-decoration: underline;
+}
+li.current-menu-ancestor a {
+	text-decoration: underline;
+}
+li.current-menu-ancestor a:visited {
+	text-decoration: underline;
+}
+li.current-menu-ancestor a:link {
+	text-decoration: underline;
+}
+li.current_page_ancestor ul a {
+	text-decoration: none;
+}
+li.current_page_ancestor ul a:visited {
+	text-decoration: none;
+}
+li.current_page_ancestor ul a:link {
+	text-decoration: none;
+}
+li.current-menu-ancestor ul a {
+	text-decoration: none;
+}
+li.current-menu-ancestor ul a:visited {
+	text-decoration: none;
+}
+li.current-menu-ancestor ul a:link {
+	text-decoration: none;
+}
+ul.dropdown-vertical {
+	min-width: 160px;
+}
+ul.dropdown-vertical li {
+	border-bottom-color: rgb(221, 221, 221); border-bottom-width: 1px; border-bottom-style: solid;
+}
+ul.dropdown-vertical ul {
+	border-bottom-color: currentColor; border-bottom-width: 0px; border-bottom-style: none;
+}
